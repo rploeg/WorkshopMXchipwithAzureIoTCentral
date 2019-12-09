@@ -94,7 +94,7 @@ Open your web browser and navigate to http://192.168.0.1/ The following web page
 
 Connect to the WiFi what is provided during the workshop and fill in the configuration items that you have copied from Azure IoT Central. Just use an own device name. 
 
-After save, the device will be rebooted, connect to Azure IoT Central and register the device.
+After save, the device will be rebooted, connect to Azure IoT Central and the device will be registrered in IoT Central.
 
 ### See your new device in Azure IoT Central
 
