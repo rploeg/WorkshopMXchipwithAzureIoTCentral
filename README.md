@@ -2,6 +2,8 @@
 
 In this short workshop (max 1 hour) you will learn howto connect a [MXchip](https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/), aka AZ3166 to Azure IoT Central preview templates.
 
+![MXchip](./images/mxchip.png)
+
 In this quickstart, you create the MXchip device template and add a real device to the system. An MXchip sensor device:
 
 Sends telemetry such as temperature.
