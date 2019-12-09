@@ -14,7 +14,9 @@ If in the workshop no enviornment is given, you have to create first an Azure Io
 
 Navigate to the [Azure IoT Central Build site](https://aka.ms/iotcentral/). Then sign in with a Microsoft personal, work, or school account.
 
-You create a new application either from the list of industry-relevant IoT Central templates to help you get started quickly, or start from scratch using the Custom app template. For this workshop you have to create a custom app and not an industry template. 
+You create a new application either from the list of industry-relevant IoT Central templates to help you get started quickly, or start from scratch using the Custom app template. For this workshop you have to create a custom app and not an industry template.
+
+![Test](https://docs.microsoft.com/en-us/azure/iot-central/preview/media/quick-deploy-iot-central/iotcentralcreate-templates-pnp.png)
 
 ## Device templates
 
