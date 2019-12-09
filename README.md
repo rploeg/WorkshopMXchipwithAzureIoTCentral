@@ -1,6 +1,6 @@
 # Connect the MXchip to Azure IoT Central (Preview templates)
 
-In this short workshop (max 1 hour) you will learn howto connect a MXchip (AZ3166) to Azure IoT Central preview templates.
+In this short workshop (max 1 hour) you will learn howto connect a [MXchip (aka AZ3166)] (https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/) to Azure IoT Central preview templates.
 
 In this quickstart, you create the MXchip device template and add a real device to the system. An MXchip sensor device:
 
@@ -107,3 +107,9 @@ After that you can see the data that is coming from your device:
 Try to send a command to the device to blink the light on the MXchip
 
 ![Configure WiFi](./images/blinkthelight.png)
+
+## Debugging
+
+If you have any issues you can connect directly to the MXchip board with [Putty](https://www.putty.org/). Just connect Putty to the local COM portal where the MXchip is connected and you can see the messages that the device is transmitting.
+
+![Putty](./images/putty.png)
