@@ -1,4 +1,4 @@
-# Connect the MXchip to Azure IoT Central (Preview tempaltes)
+# Connect the MXchip to Azure IoT Central (Preview templates)
 
 In this short workshop (max 1 hour) you will learn howto connect a MXchip (AZ3166) to Azure IoT Central preview templates.
 
@@ -58,7 +58,7 @@ The next step is to prepare the MXchip you have received. Open the box and conne
 
 ### Upload image
 
-Download the custom image for the MXchip [here](./iotc_devkit.bin) and copy the image to the MXchip via the Windows Explorer
+Download the custom image for the MXchip [here](./images/iotc_devkit.bin) and copy the image to the MXchip via the Windows Explorer
 
 ![Select Finish](./images/copyimage.png)
 
