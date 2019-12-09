@@ -12,7 +12,7 @@ Reports generic device properties such as firmware version and serial number
 
 If in the workshop no enviornment is given, you have to create first an Azure IoT Central environment to connect the MXchip on. If you have already an environment, please go to the next section.
 
-Navigate to the (Azure IoT Central Build site)[https://aka.ms/iotcentral/]. Then sign in with a Microsoft personal, work, or school account.
+Navigate to the [Azure IoT Central Build site](https://aka.ms/iotcentral/). Then sign in with a Microsoft personal, work, or school account.
 
 You create a new application either from the list of industry-relevant IoT Central templates to help you get started quickly, or start from scratch using the Custom app template. For this workshop you have to create a custom app and not an industry template. 
 
