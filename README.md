@@ -99,3 +99,11 @@ After save, the device will be rebooted, connect to Azure IoT Central and regist
 Login into Azure IoT Central, go to 'Devices', select 'MXchip' and click on your new device
 
 ![Configure WiFi](./images/navigatetodevice.png)
+
+After that you can see the data that is coming from your device:
+
+![Configure WiFi](./images/seedata.png)
+
+Try to send a command to the device to blink the light on the MXchip
+
+![Configure WiFi](./images/blinkthelight.png)
